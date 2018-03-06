@@ -43,7 +43,7 @@ Coverage
 
 Latests PyPI Release
 --------------------
-.. image:: https://pypip.in/v/onegov.libres/badge.png
+.. image:: https://img.shields.io/pypi/v/onegov.libres.svg
   :target: https://crate.io/packages/onegov.libres
   :alt: Latest PyPI Release
 
